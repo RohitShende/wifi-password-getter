@@ -1,0 +1,4 @@
+command to generate windows app
+==================================
+pyinstaller -i wifi_password.ico wifi_password_getter.py
+

@@ -79,3 +79,4 @@ def get_windows_wifi_passwords():
 
 if __name__ == '__main__':
     print(get_wifi_passwords(os=OperatingSystem.WINDOWS))
+    input('Can I close now ? Enter any key')
